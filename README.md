@@ -24,4 +24,4 @@ I'm a math student with all over the place interests:
 On the other hand enjoy creating graphical content like animation or movies in blender or simulations in unity. 
 
 Some of the projects that i'm currently working on:
-- **˙✧˖°🍿 ༘ ⋆｡˚movieFinder** -- a recommendation system for movies. Plan is to introduce pair reccomendation to help people decide what they wanna watch when they are together.
+- 🍿**movieFinder** -- a recommendation system for movies. Plan is to introduce pair reccomendation to help people decide what they wanna watch when they are together.
