@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a math student with all over the place interests:
-- 🎛️ML
+- 🎛️ML with main expertise in regression problems for insurance pricing
 - 🐍High-level programming like python
 - ⌨️Low-level programming like cpp
 - 📊Analytics and visualizations
